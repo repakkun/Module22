@@ -1,0 +1,13 @@
+C:\Users\1\Documents\КУРСЫ\C#\Module22\Module22\bin\Debug\netcoreapp3.1\Module22.exe
+C:\Users\1\Documents\КУРСЫ\C#\Module22\Module22\bin\Debug\netcoreapp3.1\Module22.deps.json
+C:\Users\1\Documents\КУРСЫ\C#\Module22\Module22\bin\Debug\netcoreapp3.1\Module22.runtimeconfig.json
+C:\Users\1\Documents\КУРСЫ\C#\Module22\Module22\bin\Debug\netcoreapp3.1\Module22.runtimeconfig.dev.json
+C:\Users\1\Documents\КУРСЫ\C#\Module22\Module22\bin\Debug\netcoreapp3.1\Module22.dll
+C:\Users\1\Documents\КУРСЫ\C#\Module22\Module22\bin\Debug\netcoreapp3.1\Module22.pdb
+C:\Users\1\Documents\КУРСЫ\C#\Module22\Module22\obj\Debug\netcoreapp3.1\Module22.csprojAssemblyReference.cache
+C:\Users\1\Documents\КУРСЫ\C#\Module22\Module22\obj\Debug\netcoreapp3.1\Module22.AssemblyInfoInputs.cache
+C:\Users\1\Documents\КУРСЫ\C#\Module22\Module22\obj\Debug\netcoreapp3.1\Module22.AssemblyInfo.cs
+C:\Users\1\Documents\КУРСЫ\C#\Module22\Module22\obj\Debug\netcoreapp3.1\Module22.csproj.CoreCompileInputs.cache
+C:\Users\1\Documents\КУРСЫ\C#\Module22\Module22\obj\Debug\netcoreapp3.1\Module22.dll
+C:\Users\1\Documents\КУРСЫ\C#\Module22\Module22\obj\Debug\netcoreapp3.1\Module22.pdb
+C:\Users\1\Documents\КУРСЫ\C#\Module22\Module22\obj\Debug\netcoreapp3.1\Module22.genruntimeconfig.cache
